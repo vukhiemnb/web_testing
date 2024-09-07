@@ -1,0 +1,1 @@
+This repo is to help new tester to know how to test a website

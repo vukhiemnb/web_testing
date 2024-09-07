@@ -1,0 +1,12 @@
+{
+  "name": "web_testing",
+  "version": "1.0.0",
+  "description": "This repo is to help new tester to know how to test a website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
