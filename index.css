@@ -39,3 +39,8 @@ nav ul li a:hover {
 section {
   padding: 0 3% 0 3%;
 }
+
+.lesson_details {
+  margin-bottom: 300px;
+  margin-top: 300px;
+}
