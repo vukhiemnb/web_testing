@@ -47,3 +47,8 @@ section {
   margin-bottom: 300px;
   margin-top: 300px;
 }
+
+section img {
+  border: 10px rgb(41, 181, 236) solid;
+  width: 80%;
+}

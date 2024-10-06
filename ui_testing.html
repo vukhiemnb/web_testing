@@ -240,9 +240,36 @@
           >Link</a
         >
       </p>
-      <h3>Covered elements</h3>
-      <h3>Hover elements</h3>
-      <h3>Clickable elements</h3>
+      <h3>3.1. Covered elements</h3>
+      <p>
+        There are some cases your elements are covered by other elements, and
+        you cannot interact with your items. As in the the Key feature section
+        from the landing page. You can not click to the text
+        <code>Key feature</code> to inspect it's properties
+      </p>
+      <img
+        src="resources/ui_testing/browser_interaction/overlay_element.png"
+        alt="Overlay example"
+      />
+      <p>
+        In this case, if you inspect the text, you only can find the overlay
+        element, and you cannot find your texts
+      </p>
+      <img
+        src="resources/ui_testing/browser_interaction/overlay_element_inspect.png"
+        alt="Overlay example inspect"
+      />
+      <p>
+        With the overlay elements like this, you just need to delete it by right
+        click the html tag, then select <code>Delete element</code>,then the
+        overlay will be deleted, and you can inspect the texts now.
+      </p>
+      <img
+        src="resources/ui_testing/browser_interaction/overlay_element_resolved.png"
+        alt="Overlay example resolved"
+      />
+      <h3>3.2. Hover elements</h3>
+      <h3>3.3. Clickable elements</h3>
     </section>
     <section id="lesson_04" class="lesson_details">
       <h2>Lesson 4: Responsive</h2>
